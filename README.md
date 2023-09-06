@@ -1,2 +1,2 @@
-# basic_python-
+# basic_python
 oreilly python for data analysis
